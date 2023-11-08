@@ -1,9 +1,2 @@
-h1
-Hi, I`m Liza
-```scss /* или css */
-@import "bower_components/tree-normalize/generic.normalize";
-h1 {
- font-size:1.5em;
- font-weight: 300;
-}
-```
+# Hi, I`m ***Liza***
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
