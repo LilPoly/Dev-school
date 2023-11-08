@@ -7,6 +7,6 @@
 
 
 This project contains homework from <b>Dev school</b>
-- [x] Homework 1
+- [x] [Homework 1] (https://github.com/LilPoly/-Fuuikj/tree/main/1hw)
 - [x] Homework 2
 - [x] Homework 4
