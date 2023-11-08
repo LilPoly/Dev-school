@@ -4,3 +4,4 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+of+KPI" alt="Typing SVG">
   </a>
 </p>
+### This project contains homework from **Dev school**
