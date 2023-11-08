@@ -8,5 +8,5 @@
 
 This project contains homework from <b>Dev school</b>
 - [x] <a href="https://github.com/LilPoly/-Fuuikj/tree/main/1hw">Homework 1</a>
-- [x] Homework 2
-- [x] Homework 4
+- [x] <a href="https://github.com/LilPoly/-Fuuikj/tree/main/2hw">Homework 2</a>
+- [x] <a href="https://github.com/LilPoly/-Fuuikj/tree/main/4hw">Homework 4</a>
